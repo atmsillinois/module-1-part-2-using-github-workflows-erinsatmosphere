@@ -1,16 +1,19 @@
-""" The following code includes a function that doubles a number provided by the user.
+""" The following code includes a function that doubles a number provided by
+the user. This code will be used to practice basic git and github commands and
+features.
 
 Module 1 Part 2 Homework
 ATMS 523
 Erin Welch
 """
 
+
 def double_number(value):
     """Returns the given value multiplied by two.
 
-    Args: 
+    Args:
         value (float) represents the number to double.
-    
+
     Returns:
         (float): the doubled value.
     """
